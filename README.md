@@ -17,7 +17,7 @@
 - [ Aperçu](#-aperçu)
 - [ Installation](#-installation)
 - [ Auteurs](#-auteurs)
-- [ Licence](#-licence)
+
 
 ---
 
