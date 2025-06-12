@@ -70,20 +70,10 @@ L'application suit le modèle **MVC** (Modèle-Vue-Contrôleur) :
 ## 🚀 **Installation**
 1️⃣ **Cloner le dépôt** :
 ```bash
-git clone https://github.com/AyoubFanaoui/TRAFICVI.git
-cd TRAFICVI
-
-
+git clone https://github.com/Drissrad/JavaFX-Network-Intrusion-Detection.git
 ---
 
 👥 Auteurs
-👨‍💻 Ayoub Fanoui
 👨‍💻 Driss Ait Maali
-
----
-
-## 📄 **Licenc
-📜 Ce projet est sous licence MIT - Voir <a href="https://mit-license.org/">LICENSE</a> pour plus d'informations.
-
----
+👨‍💻 Ayoub Fanoui
 
